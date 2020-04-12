@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+<html>
+<body background="/C:/Users/Administrator/Desktop/my-first-page/images/pic1.jpg">
+
+<a href="https://user.qzone.qq.com/476869595?source=aiostar"><h1 align="center"><img src="/C:/Users/Administrator/Desktop/my-first-page/images/zs1.jpg" width="128" height="128" />
+</h1></a>
+<embed src="/C:/Users/Administrator/Desktop/my-first-page/images/bgm2.mp3" autostart="true" loop="true" hidden="true"></embed>
+<a href="https://user.qzone.qq.com/476869595?source=aiostar"><h1 align="center">性感亚索在线送头！</h1></a>
+  <h1 align="center"><video width="320" height="240" controls="controls">
+  <source src="C:/Users/Administrator/Desktop/my-first-page/images/英雄联盟.mp4" type="video/mp4" />
+  <source src="C:/Users/Administrator/Desktop/my-first-page/images/英雄联盟.mp4" type="video/ogg" />
+  <source src="C:/Users/Administrator/Desktop/my-first-page/images/英雄联盟.mp4" type="video/webm" />
+
+</video></h1>
+</body>
+</html>
